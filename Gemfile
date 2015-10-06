@@ -1,3 +1,3 @@
 source "https://rubygems.org"
 
-gem "spotdog", "0.1.0"
+gem "spotdog", "0.2.0"

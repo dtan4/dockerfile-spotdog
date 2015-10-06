@@ -11,7 +11,7 @@ GEM
       multi_json
     jmespath (1.1.3)
     multi_json (1.11.2)
-    spotdog (0.1.0)
+    spotdog (0.2.0)
       aws-sdk (~> 2.1.15)
       dogapi
       thor
@@ -21,7 +21,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  spotdog (= 0.1.0)
+  spotdog (= 0.2.0)
 
 BUNDLED WITH
    1.10.6
